@@ -5,6 +5,7 @@ var sfondo;
 var myPoke;
 var poke;
 
+
 function preload() {
     // data = loadJSON('./assets/data.json');
     myData = loadJSON('./assets/digimon.json');
